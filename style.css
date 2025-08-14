@@ -1,0 +1,36 @@
+.c{
+    display: flex;
+    justify-content: center;
+    gap: 20px; /* spacing between items */
+    padding: 20px;
+}
+.left{
+    float: left;
+    width: 120PX;
+}
+.right{
+    
+    justify-content: right;
+    margin: right;
+}
+.CN{
+    
+}
+.t{
+     text-size-adjust: 200%;
+}
+.red{
+    background-color: red;
+    color: white;
+    text-align: center;
+}
+.bd{
+     border: 6px solid blue;
+    border-top: none;
+    margin: 50px;
+    padding: 20px;
+    width: 90%;
+}
+.blue{
+    background-color:lightblue;
+}
