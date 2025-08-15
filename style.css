@@ -20,7 +20,8 @@
      text-size-adjust: 200%;
 }
 .red{
-    background-color: red;
+    background-color: red ;
+    min-inline-size: 500px;
     color: white;
     text-align: center;
 }
@@ -33,4 +34,10 @@
 }
 .blue{
     background-color:lightblue;
+}
+.p{
+    text-align: center;
+}
+.un{
+    background-color: lightblue;
 }
