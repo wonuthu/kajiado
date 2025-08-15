@@ -7,11 +7,13 @@
 .left{
     float: left;
     width: 120PX;
+    padding-right: 200px;
 }
 .right{
     
     justify-content: right;
     margin: right;
+    padding-left: 200px;
 }
 .CN{
     
@@ -20,24 +22,25 @@
      text-size-adjust: 200%;
 }
 .red{
-    background-color: red ;
-    min-inline-size: 500px;
+    background-color: red;
     color: white;
     text-align: center;
+    margin-inline-start: 140px;
+    width: 1500px;
 }
 .bd{
-     border: 6px solid blue;
-    border-top: none;
-    margin: 50px;
-    padding: 20px;
-    width: 90%;
+    border-left: 5px solid blue;
+    border-bottom: 5px solid blue;
+    border-right: 5px solid blue;
 }
 .blue{
     background-color:lightblue;
+    padding-bottom: 2px;
 }
 .p{
     text-align: center;
 }
 .un{
     background-color: lightblue;
+    
 }
